@@ -5,4 +5,4 @@ An Adidas sales dataset is a collection of data that includes information on the
 It contains 9652 rows and 14 Columns in total.
 
 An analysis and visualization of this data was made using the following Python libraries: 
-- pandas, numpy, seaborn, matplotlib.pyplot, plotly.express
+- Pandas, NumPy, Seaborn, Matplotlib
