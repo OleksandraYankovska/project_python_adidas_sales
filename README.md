@@ -24,3 +24,5 @@ The main questions we had:
 https://app.powerbi.com/reportEmbed?reportId=36ccefe0-dce7-490e-ada1-40d13b4e3682&autoAuth=true&ctid=fed13eee-c5d7-4135-b52a-455d09c5aac9
 
 https://app.powerbi.com/groups/me/dashboards/663f01ea-73f4-4aa8-80c4-7160373bd507?ctid=fed13eee-c5d7-4135-b52a-455d09c5aac9&pbi_source=linkShare
+
+https://app.powerbi.com/view?r=eyJrIjoiMzk3NTM2MDYtNzRhZi00MDA4LTlmODYtNDg4NWY0ODRiZTY3IiwidCI6ImZlZDEzZWVlLWM1ZDctNDEzNS1iNTJhLTQ1NWQwOWM1YWFjOSIsImMiOjl9
