@@ -21,3 +21,4 @@ The main questions we had:
 6. Average Operating Margin across Products across Retailers
 7. The number of Invoices generated State wise
 
+https://app.powerbi.com/reportEmbed?reportId=36ccefe0-dce7-490e-ada1-40d13b4e3682&autoAuth=true&ctid=fed13eee-c5d7-4135-b52a-455d09c5aac9
