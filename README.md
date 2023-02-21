@@ -11,7 +11,7 @@ An analysis and visualization of this data was done using the following Python L
 - Pandas, NumPy, Seaborn, Matplotlib, Plotly
 
 
-##The main questions:
+## The main questions:
 
 1. Top Selling Products
 2. Top Retailers
