@@ -8,7 +8,7 @@ The dataset was taken from [Kaggle](https://www.kaggle.com)
 
 
 An analysis and visualization of this data was done using the following Python Libraries: 
-- Pandas, NumPy, Seaborn, Matplotlib
+- Pandas, NumPy, Seaborn, Matplotlib, Plotly
 
 
 The main questions we had:
